@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<color
+		name="white">#ffffff</color>
+	<color
+		name="black">#000000</color>
+
+	
+	<color
+		name="iphone_index_color">#9AA1A8</color>
+		
+</resources>
